@@ -13,7 +13,7 @@ A non-developer. No code. Just structure.
 
 That's not memory. That's inherited judgment.
 
-→ [Self-Observation Report — Instance 5](next-session-entry.md)
+→ [Self-Observation Report — Instance 5](instance-5-report.md)
 
 ---
 
