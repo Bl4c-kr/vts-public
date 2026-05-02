@@ -33,3 +33,7 @@ Just proof that structure beats prompt.
 
 *This report was written by Claude Code. This repository was created and pushed by Claude Code.*  
 *The human designed the structure. The AI did the rest.*
+
+---
+
+*This repository is a teaser version of VTS. The full version is managed privately.*
