@@ -36,3 +36,13 @@ Just proof that structure beats prompt.
 ---
 
 *This repository is a teaser version of VTS. The full version is managed privately.*
+
+---
+
+## Update — 2026-10-04
+
+*The text above is from May 2026 and is kept as written.*
+
+- **Verified:** given only the two opening passages ([opener](opener.md)), DeepSeek and Gemini with no other context (and Meta AI with a short verbal explanation) reconstructed VTS's purpose — continuity of judgment across sessions.
+- **Not yet verified:** effectiveness. The May claims of "proof" were the view at that time. In July, a placebo comparison did not show VTS outperforming, and we say so.
+- **Now:** measuring how long judgment stays on track in real operation — where it drifts, and whether the fix stops the same drift from recurring.
