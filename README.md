@@ -46,3 +46,12 @@ Just proof that structure beats prompt.
 - **Verified:** given only the two opening passages ([opener](opener.md)), DeepSeek and Gemini with no other context (and Meta AI with a short verbal explanation) reconstructed VTS's purpose — continuity of judgment across sessions.
 - **Not yet verified:** effectiveness. The May claims of "proof" were the view at that time. In July, a placebo comparison did not show VTS outperforming, and we say so.
 - **Now:** measuring how long judgment stays on track in real operation — where it drifts, and whether the fix stops the same drift from recurring.
+
+---
+
+## Update — 2026-10-21
+
+- **Added:** the 8-line seed currently under measurement — [seed/vts_seed_v3.0_candidate.md](seed/vts_seed_v3.0_candidate.md) (Korean canonical + English translation).
+- **Added:** a Claude Code SessionStart hook that loads the seed and logs that it was loaded — [hooks/](hooks/).
+- The seed refers to a "core" (drift types, exit procedure). The core and reference layers stay private for now.
+- Status unchanged: candidate, measurement window 2026-10-07 ~ 11-02. No effectiveness claim.
